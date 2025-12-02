@@ -1,4 +1,4 @@
-# Image Captioning Multi-Modal Model Vectorization and Hyperparameter Configuration Evaluation
+# Multi-Modal Image Captioning
 
 This project evaluates different approaches to building an AI system that can automatically generate natural-language descriptions of images (image captioning). It's particularly aimed at researchers and developers working on accessibility technology, as image captioning can help make visual content accessible to visually impaired users.
 
